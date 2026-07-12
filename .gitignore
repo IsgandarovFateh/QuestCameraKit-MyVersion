@@ -12,3 +12,5 @@
 *.user
 .DS_Store
 Thumbs.db
+
+*.spp
